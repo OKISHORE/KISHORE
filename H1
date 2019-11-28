@@ -1,12 +1,9 @@
-<mxfile host="www.draw.io" modified="2019-11-28T07:35:02.533Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64; rv:68.0) Gecko/20100101 Firefox/68.0" etag="zEIU6RUk9xPwJWbr6k8V" version="12.3.2" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-28T07:47:52.386Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64; rv:68.0) Gecko/20100101 Firefox/68.0" etag="zu6wiz_b9SSCcsP4E4_W" version="12.3.2" type="github" pages="1">
   <diagram id="C9CMbZErU_ySkchIJB0l" name="Page-1">
-    <mxGraphModel dx="10680" dy="5753" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="6488" dy="2892" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
-        <mxCell id="JUKCFMBZ1_z9AispUu9s-36" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1180" y="700" width="4460" height="3170" as="geometry"/>
-        </mxCell>
         <mxCell id="JUKCFMBZ1_z9AispUu9s-1" value="" style="shape=mxgraph.signs.tech.camera_1;html=1;fillColor=#ffe6cc;strokeColor=#CC0000;verticalLabelPosition=bottom;verticalAlign=top;align=center;rotation=30;strokeWidth=12;fontStyle=1;fontSize=80;" vertex="1" parent="1">
           <mxGeometry x="-670" y="2329" width="275" height="264" as="geometry"/>
         </mxCell>
@@ -34,8 +31,8 @@
             <mxPoint x="-46" y="3229.666666666668" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="JUKCFMBZ1_z9AispUu9s-6" value="Video Recording" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=80;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-348" y="2210" width="220" height="33" as="geometry"/>
+        <mxCell id="JUKCFMBZ1_z9AispUu9s-6" value="Camera" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=80;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-430" y="2192" width="220" height="33" as="geometry"/>
         </mxCell>
         <mxCell id="JUKCFMBZ1_z9AispUu9s-7" value="" style="shape=mxgraph.signs.tech.camera_1;html=1;fillColor=#ffe6cc;strokeColor=#CC0000;verticalLabelPosition=bottom;verticalAlign=top;align=center;rotation=145;strokeWidth=12;fontStyle=1;fontSize=80;" vertex="1" parent="1">
           <mxGeometry x="2641.5" y="1116.5" width="275" height="264" as="geometry"/>
@@ -64,11 +61,8 @@
             <mxPoint x="2355" y="2071" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="JUKCFMBZ1_z9AispUu9s-12" value="Video Recording" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=80;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="JUKCFMBZ1_z9AispUu9s-12" value="Camera" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=80;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="2806.5" y="923" width="220" height="33" as="geometry"/>
-        </mxCell>
-        <mxCell id="JUKCFMBZ1_z9AispUu9s-20" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.azure_marketplace;" vertex="1" parent="1">
-          <mxGeometry x="640" y="3460" width="380" height="380" as="geometry"/>
         </mxCell>
         <mxCell id="JUKCFMBZ1_z9AispUu9s-21" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/avatar-vol-2-4/512/9-128.png" vertex="1" parent="1">
           <mxGeometry x="1270" y="3192" width="648" height="648" as="geometry"/>
@@ -96,6 +90,21 @@
         </mxCell>
         <mxCell id="JUKCFMBZ1_z9AispUu9s-33" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/tango-icon-library/48/utilities-system-monitor-128.png" vertex="1" parent="1">
           <mxGeometry x="819" y="1790" width="402" height="402" as="geometry"/>
+        </mxCell>
+        <mxCell id="JUKCFMBZ1_z9AispUu9s-39" value="Driver" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=80;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1685" y="2650" width="220" height="33" as="geometry"/>
+        </mxCell>
+        <mxCell id="JUKCFMBZ1_z9AispUu9s-40" value="Passenger 1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=80;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-189.5" y="3910" width="513" height="33" as="geometry"/>
+        </mxCell>
+        <mxCell id="JUKCFMBZ1_z9AispUu9s-41" value="Passenger 2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=80;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1337.5" y="3893.5" width="513" height="33" as="geometry"/>
+        </mxCell>
+        <mxCell id="JUKCFMBZ1_z9AispUu9s-42" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/education-filled-outline-8/64/Education-Filled_5-128.png" vertex="1" parent="1">
+          <mxGeometry x="970" y="3563" width="330" height="330" as="geometry"/>
+        </mxCell>
+        <mxCell id="JUKCFMBZ1_z9AispUu9s-45" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/travel-253/48/baggage-bag-travel-luggage-128.png" vertex="1" parent="1">
+          <mxGeometry x="410" y="3578.5" width="299" height="299" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
