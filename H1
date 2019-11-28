@@ -1,11 +1,11 @@
-<mxfile host="www.draw.io" modified="2019-11-28T07:56:21.170Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64; rv:68.0) Gecko/20100101 Firefox/68.0" etag="uId1jJDt7SRwgf6o7-8R" version="12.3.2" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-28T10:28:58.784Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64; rv:68.0) Gecko/20100101 Firefox/68.0" etag="R_lpyvPFW6ut-Fv5V0NE" version="12.3.2" type="github" pages="1">
   <diagram id="C9CMbZErU_ySkchIJB0l" name="Page-1">
-    <mxGraphModel dx="6888" dy="2892" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="11080" dy="5753" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
         <mxCell id="JUKCFMBZ1_z9AispUu9s-46" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-830" y="800" width="3800" height="3280" as="geometry"/>
+          <mxGeometry x="-1310" y="458" width="4430" height="3632" as="geometry"/>
         </mxCell>
         <mxCell id="JUKCFMBZ1_z9AispUu9s-1" value="" style="shape=mxgraph.signs.tech.camera_1;html=1;fillColor=#ffe6cc;strokeColor=#CC0000;verticalLabelPosition=bottom;verticalAlign=top;align=center;rotation=30;strokeWidth=12;fontStyle=1;fontSize=80;" vertex="1" parent="1">
           <mxGeometry x="-670" y="2329" width="275" height="264" as="geometry"/>
@@ -35,7 +35,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JUKCFMBZ1_z9AispUu9s-6" value="Camera" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=80;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-430" y="2192" width="220" height="33" as="geometry"/>
+          <mxGeometry x="-752.5" y="2663.5" width="220" height="33" as="geometry"/>
         </mxCell>
         <mxCell id="JUKCFMBZ1_z9AispUu9s-7" value="" style="shape=mxgraph.signs.tech.camera_1;html=1;fillColor=#ffe6cc;strokeColor=#CC0000;verticalLabelPosition=bottom;verticalAlign=top;align=center;rotation=145;strokeWidth=12;fontStyle=1;fontSize=80;" vertex="1" parent="1">
           <mxGeometry x="2471.5" y="1113.5" width="275" height="264" as="geometry"/>
@@ -65,7 +65,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JUKCFMBZ1_z9AispUu9s-12" value="Camera" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=80;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="2636.5" y="920" width="220" height="33" as="geometry"/>
+          <mxGeometry x="2609" y="983" width="220" height="957" as="geometry"/>
         </mxCell>
         <mxCell id="JUKCFMBZ1_z9AispUu9s-21" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/avatar-vol-2-4/512/9-128.png" vertex="1" parent="1">
           <mxGeometry x="1270" y="3192" width="648" height="648" as="geometry"/>
@@ -109,8 +109,35 @@
         <mxCell id="JUKCFMBZ1_z9AispUu9s-45" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/travel-253/48/baggage-bag-travel-luggage-128.png" vertex="1" parent="1">
           <mxGeometry x="410" y="3578.5" width="299" height="299" as="geometry"/>
         </mxCell>
-        <mxCell id="JUKCFMBZ1_z9AispUu9s-47" value="Infotainmainent" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=80;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="701" y="2159" width="220" height="33" as="geometry"/>
+        <mxCell id="JUKCFMBZ1_z9AispUu9s-47" value="Infotainment" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=80;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="701" y="2130" width="220" height="33" as="geometry"/>
+        </mxCell>
+        <mxCell id="JUKCFMBZ1_z9AispUu9s-50" value="&lt;div align=&quot;left&quot;&gt;&amp;gt; Thermal Imaging &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;gt; Forgotten Items &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=80;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-353" y="2400" width="840" height="33" as="geometry"/>
+        </mxCell>
+        <mxCell id="JUKCFMBZ1_z9AispUu9s-51" value="&lt;div&gt;&amp;gt; Connected to Emergency Centers&lt;/div&gt;&lt;div&gt;&amp;gt; Emergency Detection and Alerting Head unit &lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;gt; Event Notification&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=80;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="273" y="1377.5" width="1117" height="33" as="geometry"/>
+        </mxCell>
+        <mxCell id="JUKCFMBZ1_z9AispUu9s-52" value="&lt;div&gt;&amp;gt; Monitoring Health &lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;gt; Stress Detection&lt;/div&gt;&lt;div&gt;&amp;gt; Attention Detection&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=80;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="2140" y="2425" width="840" height="33" as="geometry"/>
+        </mxCell>
+        <mxCell id="JUKCFMBZ1_z9AispUu9s-56" value="" style="endArrow=classic;html=1;dashed=1;strokeWidth=12;strokeColor=#d80073;startArrow=block;startFill=1;endFill=1;fillColor=#d80073;fontStyle=1;fontSize=80;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="JUKCFMBZ1_z9AispUu9s-52">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2180" y="2170" as="sourcePoint"/>
+            <mxPoint x="1828" y="2433" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JUKCFMBZ1_z9AispUu9s-57" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/lumin-social-media-icons/512/RSS-128.png;strokeColor=#FF6666;strokeWidth=12;fillColor=#99FFFF;rotation=-90;fontStyle=1;fontSize=80;" vertex="1" parent="1">
+          <mxGeometry x="2151.5" y="788" width="322" height="322" as="geometry"/>
+        </mxCell>
+        <mxCell id="JUKCFMBZ1_z9AispUu9s-58" value="Remote Enabled" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=80;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1890" y="730" width="1055" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="JUKCFMBZ1_z9AispUu9s-59" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/lumin-social-media-icons/512/RSS-128.png;strokeColor=#FF6666;strokeWidth=12;fillColor=#99FFFF;rotation=-90;fontStyle=1;fontSize=80;" vertex="1" parent="1">
+          <mxGeometry x="-913.5" y="2014" width="322" height="322" as="geometry"/>
+        </mxCell>
+        <mxCell id="JUKCFMBZ1_z9AispUu9s-60" value="Remote Enabled" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=80;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-1280" y="1924" width="1055" height="20" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
