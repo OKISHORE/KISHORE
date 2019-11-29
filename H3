@@ -1,11 +1,11 @@
-<mxfile host="www.draw.io" modified="2019-11-29T02:41:51.057Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64; rv:68.0) Gecko/20100101 Firefox/68.0" etag="RLimQO1OHDgJRs0mg0-J" version="12.3.3" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-29T02:49:43.613Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64; rv:68.0) Gecko/20100101 Firefox/68.0" etag="7Va4RRVBMnvIsY_QfKvA" version="12.3.3" type="github" pages="1">
   <diagram id="-fyl3U1LBp8opN1og-9O" name="Page-1">
     <mxGraphModel dx="8284" dy="4279" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
         <mxCell id="QOfmSm3kdV65ZgeJzfEc-42" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-420" y="519" width="3855" height="2290" as="geometry"/>
+          <mxGeometry x="-420" y="519" width="3720" height="2290" as="geometry"/>
         </mxCell>
         <mxCell id="QOfmSm3kdV65ZgeJzfEc-8" value="" style="shape=mxgraph.signs.tech.camera_1;html=1;fillColor=#ffe6cc;strokeColor=#CC0000;verticalLabelPosition=bottom;verticalAlign=top;align=center;rotation=145;strokeWidth=12;fontStyle=1;fontSize=80;" vertex="1" parent="1">
           <mxGeometry x="2471.5" y="1113.5" width="275" height="264" as="geometry"/>
