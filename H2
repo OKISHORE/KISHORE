@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2019-12-15T10:28:46.509Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64; rv:68.0) Gecko/20100101 Firefox/68.0" etag="mFkJL2X_rtYfH5rPwdZM" version="12.4.2" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-15T13:34:04.689Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64; rv:68.0) Gecko/20100101 Firefox/68.0" etag="4qeKdE8cWNmSYWH60iwy" version="12.4.2" type="github" pages="1">
   <diagram id="LBQ7W73Z1rGaKUeVk-aF" name="Page-1">
-    <mxGraphModel dx="29240" dy="14620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="24500" dy="11583" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -181,6 +181,9 @@
             <mxPoint x="3233" y="6880" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
+        <mxCell id="si1ZoSuezaWhIxu24Ih5-23" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/system-shade-circles/512/raspberry-128.png;fontStyle=1;strokeWidth=15;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="7438.5" width="620" height="620" as="geometry"/>
+        </mxCell>
         <mxCell id="si1ZoSuezaWhIxu24Ih5-26" value="" style="shape=mxgraph.signs.tech.camera_1;html=1;fillColor=#ffe6cc;strokeColor=#CC0000;verticalLabelPosition=bottom;verticalAlign=top;align=center;rotation=30;strokeWidth=15;fontStyle=1;fontSize=80;" vertex="1" parent="1">
           <mxGeometry x="-58" y="4666" width="275" height="264" as="geometry"/>
         </mxCell>
@@ -188,13 +191,10 @@
           <mxGeometry x="54.5" y="8328.5" width="431" height="391.5" as="geometry"/>
         </mxCell>
         <mxCell id="si1ZoSuezaWhIxu24Ih5-28" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/isometric-city-basic-transport/480/car-front-02-128.png;strokeWidth=15;fontSize=100;" vertex="1" parent="1">
-          <mxGeometry x="5655" y="7320" width="840" height="840" as="geometry"/>
+          <mxGeometry x="5655" y="7540" width="840" height="840" as="geometry"/>
         </mxCell>
-        <mxCell id="si1ZoSuezaWhIxu24Ih5-32" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/LUMINA/accounting/png/128/bus.png;strokeWidth=15;fontSize=100;" vertex="1" parent="1">
-          <mxGeometry x="5775" y="8290" width="650" height="650" as="geometry"/>
-        </mxCell>
-        <mxCell id="si1ZoSuezaWhIxu24Ih5-34" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/security-flat-2-1/512/home__house__key_-128.png;strokeWidth=15;fontSize=100;" vertex="1" parent="1">
-          <mxGeometry x="5830" y="9140" width="530" height="530" as="geometry"/>
+        <mxCell id="si1ZoSuezaWhIxu24Ih5-35" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/STROKE/accounting/png/128/bus.png;strokeColor=#FFFFFF;strokeWidth=15;fontSize=100;" vertex="1" parent="1">
+          <mxGeometry x="5720" y="8650" width="710" height="710" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
