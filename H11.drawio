@@ -1,11 +1,11 @@
-<mxfile host="www.draw.io" modified="2019-12-16T03:44:39.079Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64; rv:68.0) Gecko/20100101 Firefox/68.0" etag="wiqEPvgcB5wv4-y1pIm5" version="12.4.2" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-16T03:47:16.538Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64; rv:68.0) Gecko/20100101 Firefox/68.0" etag="22N9EBL4aYeh-BxNcJUx" version="12.4.2" type="github" pages="1">
   <diagram id="C9CMbZErU_ySkchIJB0l" name="Page-1">
-    <mxGraphModel dx="8310" dy="3245" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="6888" dy="2356" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
         <mxCell id="JUKCFMBZ1_z9AispUu9s-46" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1030" y="1490" width="3210" height="2600" as="geometry"/>
+          <mxGeometry x="-1030" y="1490" width="3470" height="2600" as="geometry"/>
         </mxCell>
         <mxCell id="JUKCFMBZ1_z9AispUu9s-1" value="" style="shape=mxgraph.signs.tech.camera_1;html=1;fillColor=#ffe6cc;strokeColor=#CC0000;verticalLabelPosition=bottom;verticalAlign=top;align=center;rotation=30;strokeWidth=12;fontStyle=1;fontSize=80;" parent="1" vertex="1">
           <mxGeometry x="-670" y="2329" width="275" height="264" as="geometry"/>
@@ -87,6 +87,18 @@
         </mxCell>
         <mxCell id="im4cx0a01cvpFdTCxRzr-2" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.laptop_2;" parent="1" vertex="1">
           <mxGeometry x="810" y="3595.23" width="400" height="298.27" as="geometry"/>
+        </mxCell>
+        <mxCell id="piAp-moFvkrhKvGCQCwN-1" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#C73500;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#fa6800;shape=mxgraph.mscae.intune.mobile_inventory;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="-660" y="3350" width="330" height="338" as="geometry"/>
+        </mxCell>
+        <mxCell id="piAp-moFvkrhKvGCQCwN-3" value="Registered" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=80;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-740" y="3720" width="513" height="33" as="geometry"/>
+        </mxCell>
+        <mxCell id="piAp-moFvkrhKvGCQCwN-4" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#7700CC;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#aa00ff;shape=mxgraph.mscae.intune.mobile_inventory;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1998" y="3361.5" width="330" height="338" as="geometry"/>
+        </mxCell>
+        <mxCell id="piAp-moFvkrhKvGCQCwN-5" value="Registered" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=80;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1918" y="3731.5" width="513" height="33" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
