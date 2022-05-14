@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-14T06:17:38.387Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="Qg2uplKFaV_IMVpBxsTF" version="17.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-14T06:20:10.859Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="wUsac7cXylT0cljN3349" version="17.4.5" type="github">
   <diagram id="IgF94JwBvuCdv-xDa6ni" name="Page-1">
     <mxGraphModel dx="1540" dy="-5767" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -19,7 +19,7 @@
         <mxCell id="tW9XQHb8T1LphUsYqrsR-5" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/icocentre-free-icons/171/f-bug_256-128.png" vertex="1" parent="1">
           <mxGeometry x="4340" y="9376" width="216" height="216" as="geometry" />
         </mxCell>
-        <mxCell id="tW9XQHb8T1LphUsYqrsR-6" value="&lt;div&gt;Power Fluctuation Test (PFT)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=80;spacing=76;strokeWidth=15;gradientColor=#97d077;align=center;" vertex="1" parent="1">
+        <mxCell id="tW9XQHb8T1LphUsYqrsR-6" value="&lt;div&gt;Power Fluctuation Test (PFT)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=80;spacing=76;strokeWidth=15;align=center;" vertex="1" parent="1">
           <mxGeometry x="4676" y="9410.62" width="764" height="382.03" as="geometry" />
         </mxCell>
         <mxCell id="tW9XQHb8T1LphUsYqrsR-7" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=80;fontColor=#000000;strokeColor=#CC6600;strokeWidth=12;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tW9XQHb8T1LphUsYqrsR-2" target="tW9XQHb8T1LphUsYqrsR-6">
