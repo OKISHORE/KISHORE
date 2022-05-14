@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-14T06:05:50.361Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="Akdkod_niBqUupUWD297" version="17.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-14T06:07:27.481Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="o1HZ5Cv_0_x_JS8xrb5A" version="17.4.5" type="github">
   <diagram id="nJ32PbwJp4Qo9dSY5dBm" name="Page-1">
     <mxGraphModel dx="3910" dy="-3850" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -19,7 +19,7 @@
         <mxCell id="Hsa4Tse07Rz6AVU296yp-5" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/icocentre-free-icons/171/f-bug_256-128.png" vertex="1" parent="1">
           <mxGeometry x="4340" y="9376" width="216" height="216" as="geometry" />
         </mxCell>
-        <mxCell id="Hsa4Tse07Rz6AVU296yp-6" value="&lt;div&gt;Drunken Monkey (DM)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=80;spacing=76;strokeWidth=15;gradientColor=#ea6b66;align=center;" vertex="1" parent="1">
+        <mxCell id="Hsa4Tse07Rz6AVU296yp-6" value="&lt;div&gt;Drunken Monkey (DM)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=80;spacing=76;strokeWidth=15;gradientColor=#ffd966;align=center;" vertex="1" parent="1">
           <mxGeometry x="4730" y="9410.62" width="710" height="382.03" as="geometry" />
         </mxCell>
         <mxCell id="Hsa4Tse07Rz6AVU296yp-7" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/animals-105/150/icon_animal_macaco-128.png;fontSize=80;fontColor=#000000;strokeWidth=12;" vertex="1" parent="1">
@@ -37,7 +37,7 @@
         <mxCell id="Hsa4Tse07Rz6AVU296yp-10" value="Memory Leakage" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=80;spacing=76;strokeWidth=15;gradientColor=#7ea6e0;" vertex="1" parent="1">
           <mxGeometry x="5990" y="9251.38" width="875" height="312" as="geometry" />
         </mxCell>
-        <mxCell id="Hsa4Tse07Rz6AVU296yp-11" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;Freezes of the HMI&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=80;spacing=76;strokeWidth=15;gradientColor=#ffd966;" vertex="1" parent="1">
+        <mxCell id="Hsa4Tse07Rz6AVU296yp-11" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;Freezes of the HMI&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=80;spacing=76;strokeWidth=15;gradientColor=#ea6b66;" vertex="1" parent="1">
           <mxGeometry x="6000" y="9639.88" width="871.37" height="312" as="geometry" />
         </mxCell>
         <mxCell id="Hsa4Tse07Rz6AVU296yp-12" value="&lt;span style=&quot;text-align: left&quot;&gt;Freezes of the System&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=80;spacing=76;strokeWidth=15;gradientColor=#97d077;" vertex="1" parent="1">
