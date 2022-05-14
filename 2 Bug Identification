@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-14T06:18:35.036Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="oDCbvAUx4im9MgbK3DBP" version="17.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-14T06:19:57.858Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="JVZqeV_JeK7s7J-RLqgp" version="17.4.5" type="github">
   <diagram id="UAJR46LVLUesxQdqvVhi" name="Page-1">
-    <mxGraphModel dx="6680" dy="867" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="44" dy="-3380" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -181,6 +181,15 @@
             <mxPoint x="5575" y="6949" as="sourcePoint" />
             <mxPoint x="5625" y="6899" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="84nXGYvNeZ59g_PWjNxA-35" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/animals-105/150/icon_animal_macaco-128.png;fontSize=80;fontColor=#000000;strokeWidth=12;" vertex="1" parent="1">
+          <mxGeometry x="6500" y="6285" width="190" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="84nXGYvNeZ59g_PWjNxA-36" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Power.svg;" vertex="1" parent="1">
+          <mxGeometry x="6543" y="7099" width="95" height="146.82" as="geometry" />
+        </mxCell>
+        <mxCell id="84nXGYvNeZ59g_PWjNxA-37" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#DF8C42;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam2.turn_on_off;fontSize=80;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="6509.75" y="6682" width="170.5" height="154" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
