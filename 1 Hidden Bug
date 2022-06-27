@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-25T06:25:02.464Z" agent="5.0 (Windows)" etag="1Zezm1DMbuK_zof7-QtZ" version="20.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-27T07:22:24.736Z" agent="5.0 (Windows)" etag="acFSBhjcP2Rf9580ohc-" version="20.0.3" type="github">
   <diagram id="i8Sm1DudBEfmqVcG6d20" name="Page-1">
-    <mxGraphModel dx="7980" dy="2560" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4710" dy="1560" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -86,8 +86,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="rq6fBwBsKkxswXKTKAmn-17" value="LTP, Domain Test" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#e6d0de;strokeColor=#996185;fontSize=80;spacing=76;strokeWidth=15;gradientColor=#d5739d;" parent="1" vertex="1">
-          <mxGeometry x="6629.6" y="2963" width="868" height="312" as="geometry" />
+        <mxCell id="rq6fBwBsKkxswXKTKAmn-17" value="&lt;div&gt;LTP, Domain Test,&lt;/div&gt;&lt;div&gt;LMBench, &lt;br&gt;&lt;/div&gt;&lt;div&gt;Boot performance Test&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#e6d0de;strokeColor=#996185;fontSize=80;spacing=76;strokeWidth=15;gradientColor=#d5739d;" parent="1" vertex="1">
+          <mxGeometry x="6564" y="2966" width="1048.4" height="312" as="geometry" />
         </mxCell>
         <mxCell id="rq6fBwBsKkxswXKTKAmn-18" value="Enhanced QVT, &lt;br&gt;OS Profiling" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=80;spacing=76;strokeWidth=15;gradientColor=#7ea6e0;" parent="1" vertex="1">
           <mxGeometry x="6626.1" y="3360" width="875" height="312" as="geometry" />
@@ -104,16 +104,16 @@
         <mxCell id="rq6fBwBsKkxswXKTKAmn-22" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/icocentre-free-icons/171/f-bug_256-128.png" parent="1" vertex="1">
           <mxGeometry x="3700" y="3421" width="216" height="216" as="geometry" />
         </mxCell>
-        <mxCell id="XieWt6irBN_WsayGvxkq-1" value="&lt;div&gt;&lt;span style=&quot;text-align: left&quot;&gt;Drunken Monkey (DM)&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: left&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-align: left&quot;&gt;Power OFF and ON (POO)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-align: left&quot;&gt;&lt;/span&gt;P&lt;span style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;text-align: left&quot;&gt;ower Fluctuation Test (PFT)&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=80;spacing=76;strokeWidth=15;" vertex="1" parent="1">
+        <mxCell id="XieWt6irBN_WsayGvxkq-1" value="&lt;div&gt;&lt;span style=&quot;text-align: left&quot;&gt;Drunken Monkey (DM)&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: left&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-align: left&quot;&gt;Power OFF and ON (POO)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-align: left&quot;&gt;&lt;/span&gt;P&lt;span style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;text-align: left&quot;&gt;ower Fluctuation Test (PFT)&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=80;spacing=76;strokeWidth=15;" parent="1" vertex="1">
           <mxGeometry x="6413" y="3799.13" width="1301.19" height="442" as="geometry" />
         </mxCell>
-        <mxCell id="XieWt6irBN_WsayGvxkq-2" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/animals-105/150/icon_animal_macaco-128.png;fontSize=80;fontColor=#000000;strokeWidth=12;" vertex="1" parent="1">
+        <mxCell id="XieWt6irBN_WsayGvxkq-2" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/animals-105/150/icon_animal_macaco-128.png;fontSize=80;fontColor=#000000;strokeWidth=12;" parent="1" vertex="1">
           <mxGeometry x="7506" y="3870" width="96" height="96" as="geometry" />
         </mxCell>
-        <mxCell id="XieWt6irBN_WsayGvxkq-4" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#DF8C42;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam2.turn_on_off;fontSize=80;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="XieWt6irBN_WsayGvxkq-4" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#DF8C42;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam2.turn_on_off;fontSize=80;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="7577" y="3979.63" width="84" height="81" as="geometry" />
         </mxCell>
-        <mxCell id="XieWt6irBN_WsayGvxkq-5" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Power.svg;" vertex="1" parent="1">
+        <mxCell id="XieWt6irBN_WsayGvxkq-5" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Power.svg;" parent="1" vertex="1">
           <mxGeometry x="7620" y="4077.9999999999995" width="55" height="85" as="geometry" />
         </mxCell>
       </root>
